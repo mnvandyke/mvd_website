@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Starter
+title: Hugo Academic Test
 hero_media: hero-academic.png
 cta:
-  label: '**Get Started**'
+  label: '**Mary Link**'
   url: https://wowchemy.com/templates/
 cta_alt:
   label: Ask a question
@@ -22,6 +22,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+**The FREE, Hugo-based hi mary open source website builder and template trusted by 500,000+ sites.**
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.

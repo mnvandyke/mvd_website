@@ -12,11 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
-subtitle:
+title: Hugo Academic Theme hi
+subtitle: test
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: open-book.jpg
     image_darken: 1.0
