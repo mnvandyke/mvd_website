@@ -3,24 +3,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Ecology and Evolutionary Biology
+    institution: Univeristy of California Los Angeles
+    year: 2020
+  - course: BA in Biology
+    institution: Carleton College
+    year: 2013
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Community Ecology
+- Botany
+- Weaving
 organizations:
 - name: UCLA
-  url: https://www.sucla.edu
+  url: https://www.ucla.edu
 role: PhD Candidate
 social:
 - icon: envelope
@@ -34,19 +31,18 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
+  link: https://github.com/mnvandyke
+- icon: 
+  icon_pack: 
   link: https://www.linkedin.com/
 superuser: true
 title: Mary Van Dyke
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Website in progress - I am a PhD candidate in Dr. Nathan Kraft's Plant Community Ecology Lab at UCLA. Broadly I am interested in how plant communities will respond to changes in climate and how we can use research to maintain species diversity. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

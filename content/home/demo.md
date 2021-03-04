@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -32,7 +32,7 @@ Welcome to the demo of the **academic resumé template** for Wowchemy, the Websi
 
 [Explore similar templates](https://wowchemy.com/templates/)
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+**Over 5 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
 **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 

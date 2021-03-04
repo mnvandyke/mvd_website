@@ -1,17 +1,17 @@
 ---
 # Activate this widget? true/false
-active: false
+active: true
 
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Test
+title: Mary's First Project
 hero_media: hero-academic.png
 
 
 
 cta:
-  label: '**Mary Link**'
+  label: 'Link to my project data'
   url: https://wowchemy.com/templates/
 cta_alt:
   label: Ask a question

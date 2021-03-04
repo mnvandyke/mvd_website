@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Research
+subtitle: Precipitation effects on competition
 
 content:
   # Page type to display. E.g. project.
@@ -46,3 +46,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+Test content
