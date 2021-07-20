@@ -45,4 +45,4 @@ title: Mary Van Dyke
 Website in progress - I am a PhD candidate in Dr. Nathan Kraft's Plant Community Ecology Lab at UCLA. Broadly I am interested in how plant communities will respond to changes in climate and how we can use research to maintain species diversity. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_MVD.pdf" "newtab" >}}resumé{{< /staticref >}}.
