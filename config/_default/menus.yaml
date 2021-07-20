@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: My First Page
+  - name: Research
     url: '/brandnewpage'
     weight: 10
   - name: Projects
