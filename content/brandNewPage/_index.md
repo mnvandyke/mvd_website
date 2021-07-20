@@ -6,4 +6,4 @@ title: New Page
 type: page
 ---
 
-This is a whole new page
+This is a whole new page TEST
