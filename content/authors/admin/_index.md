@@ -4,7 +4,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: PhD Candidate in Ecology and Evolutionary Biology
-    institution: Univeristy of California Los Angeles
+    institution: University of California Los Angeles
     year: 2020
   - course: BA in Biology
     institution: Carleton College
