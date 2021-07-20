@@ -2,8 +2,12 @@
 header:
   caption: ""
   image: ""
-title: New Page
+title: Research
 type: page
 ---
 
-This is a whole new page TEST
+Changes in precipitation alter competitive dynamics
+
+Changes in flowering phenology affect coexistence in an annual grassland
+
+Inter-annual variation in precipitation 
