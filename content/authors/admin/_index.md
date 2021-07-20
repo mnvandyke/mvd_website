@@ -7,7 +7,7 @@ education:
     institution: University of California Los Angeles
     year: 2020
   - course: BA in Biology
-    institution: Carleton College
+    institution: Carleton College, MN
     year: 2013
 email: ""
 highlight_name: false
