@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Research
+title: Research test
 subtitle: Precipitation effects on competition
 
 content:
