@@ -4,7 +4,7 @@ active: true
 
 widget: hero
 headless: true
-weight: 10
+weight: 30
 title: Inter-annual variation in precipitation
 hero_media: hero-academic.png
 

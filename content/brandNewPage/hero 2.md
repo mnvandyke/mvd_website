@@ -4,7 +4,7 @@ active: true
 
 widget: hero
 headless: true
-weight: 10
+weight: 20
 title: Changes in flowering phenology affect coexistence in an annual grassland
 hero_media: hero-academic.png
 
